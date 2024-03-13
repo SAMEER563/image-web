@@ -88,7 +88,7 @@ form {
 }
 
 #show-more-button {
-    background-color: #008cba;
+    background-color: #4177c9;
     font-size: 18px;
     border: none;
     color: #fff;
@@ -100,6 +100,7 @@ form {
     cursor: pointer;
    display: none;
 }
+
 
 @media screen and (max-width: 768px) {
     .search-results {
